@@ -1,4 +1,4 @@
-# HR-Attrition
+# HR-Attrition Analysis and Prediction
 This project is about the attrition analysis and prediction.
 I have first performed Exploratory Data Analysis on the data using various libraries like numpy, pandas, seaborn, matplotlib etc..
 
